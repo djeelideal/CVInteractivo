@@ -1,0 +1,3 @@
+Codigo adaptado y modificado para un CV interactivo.
+
+Trabajo para Programación Web - 2do año Tecnicatura Superior en Comunicación Multimedial
